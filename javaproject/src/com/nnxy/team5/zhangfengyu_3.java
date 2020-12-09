@@ -7,7 +7,11 @@ public class zhangfengyu_3 {
 	
 	public int getid()
 	{
-		return+10;
+
+
+
+		return 100;
+
 	}
 	
 	public void setid(int id){

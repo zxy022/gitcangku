@@ -1,7 +1,6 @@
-package com.nnxy.team1;
+package com.nnxy.team2;
 
-public class wanbaole_3 {
-
+public class liuqiutong_3 {
 	private int id;
 	private String name;
 	
@@ -33,8 +32,10 @@ public class wanbaole_3 {
 
 	public static void main(String[] args) {
 		
-		System.out.println("wanbaole");
+		System.out.println("liuqiutong");
 		
 	}
 	
 }
+
+
