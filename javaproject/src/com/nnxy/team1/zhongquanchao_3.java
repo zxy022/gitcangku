@@ -3,7 +3,7 @@ package com.nnxy.team1;
 public class zhongquanchao_3 {
 	private int id;
 	private String name;
-	
+	private int age;
 
 	public int getId() {
 		return id;
@@ -26,7 +26,7 @@ public class zhongquanchao_3 {
 
 
 	public static void main(String[] args) {
-		// TODO 自动生成的方法存根
+		// TODO 脳脭露炉脡煤鲁脡碌脛路陆路篓麓忙赂霉
 		
 	}
 
