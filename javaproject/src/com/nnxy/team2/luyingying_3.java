@@ -1,7 +1,6 @@
 package com.nnxy.team2;
 
-public class yanglanzhen_3 {
-
+public class luyingying_3 {
 	
 	private int name;
 	public int getName(){
@@ -14,3 +13,5 @@ public class yanglanzhen_3 {
 		
 	}
 }
+
+
