@@ -1,6 +1,7 @@
 package com.nnxy.team4;
 
 public class wulixia_3 {
+
 	private int id;
 	public int getid() {
 		
