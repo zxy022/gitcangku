@@ -2,14 +2,14 @@ package com.nnxy.team4;
 
 public class wulixia_3 {
 
-	private int name;
+	private int id;
 	public int getid() {
 		
-		return name ;
+		return id ;
 	}
 	
 	public void setID(int id) {
 		
-		this.name = id;
+		this.id = id;
 	}
 }
