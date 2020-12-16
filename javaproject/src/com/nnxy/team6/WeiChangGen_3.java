@@ -1,6 +1,6 @@
 package com.nnxy.team6;
 
-public class WeiChangGen {
+public class WeiChangGen_3 {
 	private int id;
 	private String name;
 	
