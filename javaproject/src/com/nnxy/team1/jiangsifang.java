@@ -1,5 +1,8 @@
 package com.nnxy.team1;
 
 public class jiangsifang {
-    System.out.println("hello word!");
+    pubblic void test(){
+       System.out.println("hello word!");
+    }
+    
 }
